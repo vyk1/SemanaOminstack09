@@ -1,0 +1,12 @@
+yarn lock
+->cache das dependencias
+
+dependencias são recursivas por isso pastas grandes
+
+
+yarn add algo -D
+->pra development!
+
+expresso é microframeworks
+->define rotas
+->
